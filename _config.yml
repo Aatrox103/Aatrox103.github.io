@@ -22,10 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Boyi Deng"
-  name             : "邓博以"
   avatar           : "images/4045e653af8093bda722a519ab9fcd5e.jpg"
   bio              : "University of Science and Technology of China"
-  location         :
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ADSff4oAAAAJ"
