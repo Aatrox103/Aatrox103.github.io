@@ -29,7 +29,7 @@ My research interests include large language models and mechanistic interpretabi
   - Supervised by [Dr. Basong Yang](https://scholar.google.com/citations?user=fXsHJXkAAAAJ) and [Dr. Yu Wan](https://scholar.google.com/citations?user=lGTsggUAAAAJ).
 
 # 📄 Technical Reports
-- [Qwen3 Technical Report](https://arxiv.org/abs/2505.09388), **Contributor**.
+- [Qwen3 Technical Report](https://arxiv.org/abs/2505.09388), **Contributor**. [Blog](https://qwen.ai/blog?id=qwen3)/[Hugging Face](https://huggingface.co/collections/Qwen/qwen3)
 - [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://arxiv.org/abs/2605.11887), **First Author**. [Blog](https://qwen.ai/blog?id=qwen-scope) / [Hugging Face](https://huggingface.co/collections/Qwen/qwen-scope)
 
 # 📝 Publications 
