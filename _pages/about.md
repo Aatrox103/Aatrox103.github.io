@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I'm Boyi Deng (邓博以), a PhD candidate at the University of Science and Technology of China (USTC), affiliated with the [Lab for Data Science](http://data-science.ustc.edu.cn/), under the supervision of [Prof. Fuli Feng](https://fulifeng.github.io/) and [Prof. Wenjie Wang](https://wenjiewwj.github.io/). 
 
-My research interests include large language models and mechanistic interpretability, with a particular focus on how interpretability can be used to enhance practical model capabilities. Feel free to reach out if you'd like to discuss related topics. 
+My research interests include large language models, multilingual NLP, and mechanistic interpretability, with a particular focus on how interpretability can be used to enhance practical model capabilities. Feel free to reach out if you'd like to discuss related topics. 
 
 <a href='https://scholar.google.com/citations?user=ADSff4oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
