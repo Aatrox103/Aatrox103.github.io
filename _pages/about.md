@@ -42,3 +42,6 @@ Hi, I'm Boyi Deng (邓博以), a PhD candidate at the University of Science and 
 - *2023.09 - 2028.07 (Expected)*, PhD Candidate, University of Science and Technology of China (USTC).
 - *2019.09 - 2023.07*, Bachelor, University of Science and Technology of China (USTC).
 - *2016.09 - 2019.07*, Chengdu No. 7 High School.
+
+# 🎖 Honors and Awards
+- *2025.10* National Scholarship
