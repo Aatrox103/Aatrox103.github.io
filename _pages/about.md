@@ -38,7 +38,7 @@ My research interests include mechanistic interpretability, large language model
 
 # 📝 Publications 
 - `ACL 2025` [Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders](https://arxiv.org/abs/2505.05111), **Boyi Deng**, Yu Wan, Baosong Yang, Yidan Zhang, Fuli Feng.
-- `ICLE 2026` [SASFT: Sparse Autoencoder-guided Supervised Finetuning to Mitigate Unexpected Code-Switching in LLMs](https://arxiv.org/abs/2507.14894), **Boyi Deng**, Yu Wan, Baosong Yang, Fei Huang, Wenjie Wang, Fuli Feng.
+- `ICLR 2026` [SASFT: Sparse Autoencoder-guided Supervised Finetuning to Mitigate Unexpected Code-Switching in LLMs](https://arxiv.org/abs/2507.14894), **Boyi Deng**, Yu Wan, Baosong Yang, Fei Huang, Wenjie Wang, Fuli Feng.
 - `AAAI 2025` [CrAM: Credibility-Aware Attention Modification in LLMs for Combating Misinformation in RAG](https://arxiv.org/abs/2406.11497), **Boyi Deng**, Wenjie Wang, Fengbin Zhu, Qifan Wang, Fuli Feng.
 - `EMNLP 2023` [Attack Prompt Generation for Red Teaming and Defending Large Language Models](https://aclanthology.org/2023.findings-emnlp.143/), **Boyi Deng**, Wenjie Wang, Fuli Feng, Yang Deng, Qifan Wang, Xiangnan He.
 - `EMNLP 2025` [P-mmeval: A Parallel Multilingual Multitask Benchmark for Consistent Evaluation of LLMs](https://arxiv.org/abs/2411.09116), Yidan Zhang, Yu Wan, **Boyi Deng**, Baosong Yang, Hao-Ran Wei, Fei Huang, Bowen Yu, Dayiheng Liu, Junyang Lin, Jingren Zhou.
