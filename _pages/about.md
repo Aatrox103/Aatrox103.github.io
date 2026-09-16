@@ -24,6 +24,7 @@ My research interests include mechanistic interpretability, large language model
 <a href='https://scholar.google.com/citations?user=ADSff4oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 DeepSeek-V4.1-Flash is out. Check it out. [Blog](https://www.deepseek.com/en/news/deepseek-v4-1-flash/) / [Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
 - *2026.06*: &nbsp;🎉🎉 Starting my new internship at DeepSeek.
 - *2026.04*: &nbsp;🎉🎉 We released our new technical report, [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://arxiv.org/abs/2605.11887), which explores how sparse autoencoders can support practical workflows for analyzing, controlling, and improving LLMs.
 
@@ -33,7 +34,8 @@ My research interests include mechanistic interpretability, large language model
   - Supervised by [Dr. Basong Yang](https://scholar.google.com/citations?user=fXsHJXkAAAAJ) and [Dr. Yu Wan](https://scholar.google.com/citations?user=lGTsggUAAAAJ).
 
 # 📄 Technical Reports
-- [Qwen3 Technical Report](https://arxiv.org/abs/2505.09388), **Contributor**. [Blog](https://qwen.ai/blog?id=qwen3)/[Hugging Face](https://huggingface.co/collections/Qwen/qwen3)
+- [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf), **Author**. [Blog](https://www.deepseek.com/en/news/deepseek-v4-1-flash/) / [Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
+- [Qwen3 Technical Report](https://arxiv.org/abs/2505.09388), **Contributor**. [Blog](https://qwen.ai/blog?id=qwen3) /[ Hugging Face](https://huggingface.co/collections/Qwen/qwen3)
 - [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://arxiv.org/abs/2605.11887), **First Author**. [Blog](https://qwen.ai/blog?id=qwen-scope) / [Hugging Face](https://huggingface.co/collections/Qwen/qwen-scope)
 
 # 📝 Publications 
