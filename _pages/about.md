@@ -29,8 +29,8 @@ My research interests include mechanistic interpretability, large language model
 - *2026.04*: &nbsp;🎉🎉 We released our new technical report, [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://arxiv.org/abs/2605.11887), which explores how sparse autoencoders can support practical workflows for analyzing, controlling, and improving LLMs.
 
 # 💻 Internships
-- *2026.06 - Now*, DeepSeek, Beijing, China.
-- *2024.08 - 2026.06*, Tongyi Lab, Alibaba Group, Hangzhou, China.
+- *2026.06 - Now*, DeepSeek AI, Beijing, China.
+- *2024.08 - 2026.06*, Qwen, Alibaba Group, Hangzhou, China.
   - Supervised by [Dr. Basong Yang](https://scholar.google.com/citations?user=fXsHJXkAAAAJ) and [Dr. Yu Wan](https://scholar.google.com/citations?user=lGTsggUAAAAJ).
 
 # 📄 Technical Reports
